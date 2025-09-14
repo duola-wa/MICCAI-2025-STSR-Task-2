@@ -1,0 +1,1 @@
+# MICCAI-2025-STSR-Task-2
