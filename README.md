@@ -13,6 +13,6 @@ python main_train.py
 python main_inference.py
 ```
 
-### 3. Acknowledgement 
+### 4. Acknowledgement 
 This work is based on the implementation from [STSR-Task2-Baseline](https://github.com/ricoleehduu/STSR-Challenge/tree/main/STSR-2025/baseline/STSR-Task2-Baseline).  
 Many thanks to the original authors for their great work.
